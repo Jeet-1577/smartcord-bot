@@ -1,0 +1,7 @@
+app id -
+
+        1396717612343365652
+
+public key -
+
+        ecb29e49d57e6b6d8bc21c07c6cc346b083681f0f5a0f24b1390c800d6c7fa3f
